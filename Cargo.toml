@@ -1,6 +1,6 @@
 [package]
 name = "khatson"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Vee Satayamas <5ssgdxltv@relay.firefox.com>"]
 edition = "2018"
 description = "Attacut ported Thai word segmentation/breaking command line"
